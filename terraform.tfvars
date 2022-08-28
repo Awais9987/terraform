@@ -1,0 +1,5 @@
+bucket_name = "awais-class-bucket"
+ami         = "ami-052efd3df9dad4825"
+itype       = "t2.micro"
+username1   = "john"
+username2   = "jenny"
